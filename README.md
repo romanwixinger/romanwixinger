@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Roman. I like to solve problems in the industry and academia with data engineering and data science. 
 - 🔭 I’m working as a Data Scientist in the Data & AI team at Ergon in Zurich.
-- 🌱 My learning areas are DevOps for data pipelines and machine learning workflows.
+- 🌱 My goal is to make information actionable, focusing on medical and legal reasoning.
 - 👯 I’m looking to collaborate on promoting software engineering best practices in science, because I believe that these are the missing piece to making research reproducible and impactful again. With [Engineers for Science](https://www.engineersforscience.com/), I am connecting researchers with software engineers for mentoring and sharing my learnings in a blog.
 - 💬 Ask me about data related roles, research stays, code reviews, and physics. 
 - 📫 How to reach me: roman@engineersforscience.com.
